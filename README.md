@@ -4,4 +4,4 @@ It contains three repos that may be used together (if wanted):
 
 - https://github.com/joeriben/ai4artsed_comfyui_nodes
 - https://github.com/joeriben/ai4artsed_comfyui_workflows (nodes required)
-- [https://github.com/joeriben/ai4artsed_webserver](https://github.com/joeriben/AI4ArtsEd-CESEM) (runs workflows in a simple web interface)
+- https://github.com/joeriben/AI4ArtsEd-CESEM (runs workflows in a simple web interface)
