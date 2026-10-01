@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated in order to comply with the
+# requirements of the research project AI4ArtsEd (FKZ 01JKT2408A),
+# funded by the German Federal Ministry of Education and Research (BMBF).
+# Please use the metadata provided below.
+---
+cff-version: 1.2.0
+title: "AI4ArtsEd AI Lab Werkraum: A SwarmUI-based Software Framework for Critical Educational and Scientific Exploration and Manipulation of Generative AI"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: "Jörissen"
+    given-names: "Benjamin"
+    email: "joerissen@gmail.com"
+identifiers:
+  - type: url
+    value: "https://github.com/joeriben/ai4artsed_werkraum"
+    description: "Repository"
+repository-code: "https://github.com/joeriben/ai4artsed_werkraum"
+url: "https://github.com/joeriben/ai4artsed_werkraum"
+abstract: >-
+  The "werkraum" ("work room") is the precursor platform of the
+  AI4ArtsEd AI Lab: a SwarmUI-based software framework for critical
+  educational and scientific exploration and manipulation of
+  generative AI, developed for cultural-aesthetic education. Its
+  session-archive architecture is documented in the 2025 interim
+  report of the research project AI4ArtsEd.
+keywords:
+  - "AI4ArtsEd"
+  - "generative AI"
+  - "arts education"
+  - "cultural-aesthetic education"
+  - "SwarmUI"
+license: EUPL-1.2
+commit: d72c074cdfb6b46d155d04ef4445c9a8d18ca013
